@@ -5,7 +5,9 @@
     "image": "/public/images/paldeck/001.png",
     "name": "Lamball",
     "wiki": "https://palworld.fandom.com/wiki/Lamball",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Lamball_menu.png/",
     "suitability": [
       {
@@ -24,7 +26,10 @@
         "level": 1
       }
     ],
-    "drops": ["wool", "lamball_mutton"],
+    "drops": [
+      "wool",
+      "lamball_mutton"
+    ],
     "aura": {
       "name": "fluffy_shield",
       "description": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch.",
@@ -96,7 +101,9 @@
     "image": "/public/images/paldeck/002.png",
     "name": "Cattiva",
     "wiki": "https://palworld.fandom.com/wiki/Cattiva",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/51/Cattiva_menu.png/",
     "suitability": [
       {
@@ -120,7 +127,9 @@
         "level": 1
       }
     ],
-    "drops": ["red_berries"],
+    "drops": [
+      "red_berries"
+    ],
     "aura": {
       "name": "cat_helper",
       "description": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity.",
@@ -192,7 +201,9 @@
     "image": "/public/images/paldeck/003.png",
     "name": "Chikipi",
     "wiki": "https://palworld.fandom.com/wiki/Chikipi",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f4/Chikipi_menu.png/",
     "suitability": [
       {
@@ -206,7 +217,10 @@
         "level": 1
       }
     ],
-    "drops": ["egg", "chikipi_poultry"],
+    "drops": [
+      "egg",
+      "chikipi_poultry"
+    ],
     "aura": {
       "name": "egg_layer",
       "description": "Sometimes lays an Egg when assigned to Ranch.",
@@ -278,7 +292,9 @@
     "image": "/public/images/paldeck/004.png",
     "name": "Lifmunk",
     "wiki": "https://palworld.fandom.com/wiki/Lifmunk",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dc/Lifmunk_menu.png/",
     "suitability": [
       {
@@ -307,7 +323,10 @@
         "level": 1
       }
     ],
-    "drops": ["berry_seeds", "low_grade_medical_supplies"],
+    "drops": [
+      "berry_seeds",
+      "low_grade_medical_supplies"
+    ],
     "aura": {
       "name": "lifmunk_recoil",
       "description": "When activated, leaps into the player's head and uses a submachine gun to follows up player attacks.",
@@ -379,7 +398,9 @@
     "image": "/public/images/paldeck/005.png",
     "name": "Foxparks",
     "wiki": "https://palworld.fandom.com/wiki/Foxparks",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d7/Foxparks_menu.png/",
     "suitability": [
       {
@@ -388,7 +409,10 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "flame_organ"],
+    "drops": [
+      "leather",
+      "flame_organ"
+    ],
     "aura": {
       "name": "huggy_fire",
       "description": "When activated, equips to the player and transforms into a flamethrower.",
@@ -460,7 +484,9 @@
     "image": "/public/images/paldeck/006.png",
     "name": "Fuack",
     "wiki": "https://palworld.fandom.com/wiki/Fuack",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Fuack_menu.png/",
     "suitability": [
       {
@@ -479,7 +505,10 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "pal_fluids"],
+    "drops": [
+      "leather",
+      "pal_fluids"
+    ],
     "aura": {
       "name": "surfing_slam",
       "description": "When activated, Fuack body surfs towards an enemy and slams into them.",
@@ -551,7 +580,9 @@
     "image": "/public/images/paldeck/007.png",
     "name": "Sparkit",
     "wiki": "https://palworld.fandom.com/wiki/Sparkit",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/ce/Sparkit_menu.png/",
     "suitability": [
       {
@@ -570,7 +601,9 @@
         "level": 1
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "static_electricity",
       "description": "While in team, increases attack power of Electric Pals.",
@@ -642,7 +675,9 @@
     "image": "/public/images/paldeck/008.png",
     "name": "Tanzee",
     "wiki": "https://palworld.fandom.com/wiki/Tanzee",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Tanzee_menu.png/",
     "suitability": [
       {
@@ -671,7 +706,9 @@
         "level": 1
       }
     ],
-    "drops": ["mushroom"],
+    "drops": [
+      "mushroom"
+    ],
     "aura": {
       "name": "cheery_rifle",
       "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies.",
@@ -743,7 +780,9 @@
     "image": "/public/images/paldeck/009.png",
     "name": "Rooby",
     "wiki": "https://palworld.fandom.com/wiki/Rooby",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Rooby_menu.png/",
     "suitability": [
       {
@@ -752,7 +791,10 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ", "leather"],
+    "drops": [
+      "flame_organ",
+      "leather"
+    ],
     "aura": {
       "name": "tiny_spark",
       "description": "While in team, increases attack power of Fire Pals.",
@@ -824,7 +866,10 @@
     "image": "/public/images/paldeck/010.png",
     "name": "Pengullet",
     "wiki": "https://palworld.fandom.com/wiki/Pengullet",
-    "types": ["water", "ice"],
+    "types": [
+      "water",
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Pengullet_menu.png/",
     "suitability": [
       {
@@ -848,7 +893,10 @@
         "level": 1
       }
     ],
-    "drops": ["ice_organ", "pal_fluids"],
+    "drops": [
+      "ice_organ",
+      "pal_fluids"
+    ],
     "aura": {
       "name": "pengullet_cannon",
       "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated.",
@@ -920,7 +968,10 @@
     "image": "/public/images/paldeck/011.png",
     "name": "Penking",
     "wiki": "https://palworld.fandom.com/wiki/Penking",
-    "types": ["water", "ice"],
+    "types": [
+      "water",
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Penking_menu.png/",
     "suitability": [
       {
@@ -949,7 +1000,10 @@
         "level": 2
       }
     ],
-    "drops": ["ice_organ", "penking_plume"],
+    "drops": [
+      "ice_organ",
+      "penking_plume"
+    ],
     "aura": {
       "name": "brave_sailor",
       "description": "When fighting together, Fire Pals drop more items when defeated.",
@@ -1021,7 +1075,9 @@
     "image": "/public/images/paldeck/012.png",
     "name": "Jolthog",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/52/Jolthog_menu.png/",
     "suitability": [
       {
@@ -1030,7 +1086,9 @@
         "level": 1
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "jolt_bomb",
       "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact.",
@@ -1102,7 +1160,10 @@
     "image": "/public/images/paldeck/013.png",
     "name": "Gumoss",
     "wiki": "https://palworld.fandom.com/wiki/Gumoss",
-    "types": ["grass", "ground"],
+    "types": [
+      "grass",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2e/Gumoss_menu.png/",
     "suitability": [
       {
@@ -1111,7 +1172,10 @@
         "level": 1
       }
     ],
-    "drops": ["berry_seeds", "gumoss_leaf"],
+    "drops": [
+      "berry_seeds",
+      "gumoss_leaf"
+    ],
     "aura": {
       "name": "logging_assistance",
       "description": "While in team, improves efficiency of cutting trees.",
@@ -1183,7 +1247,9 @@
     "image": "/public/images/paldeck/014.png",
     "name": "Vixy",
     "wiki": "https://palworld.fandom.com/wiki/Vixy",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Vixy_menu.png/",
     "suitability": [
       {
@@ -1197,7 +1263,10 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "bone"],
+    "drops": [
+      "leather",
+      "bone"
+    ],
     "aura": {
       "name": "dig_here!",
       "description": "Sometimes digs up items from the ground when assigned to Ranch.",
@@ -1269,7 +1338,9 @@
     "image": "/public/images/paldeck/015.png",
     "name": "Hoocrates",
     "wiki": "https://palworld.fandom.com/wiki/Hoocrates",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ef/Hoocrates_menu.png/",
     "suitability": [
       {
@@ -1278,7 +1349,10 @@
         "level": 1
       }
     ],
-    "drops": ["fiber", "high_grade_technical_manual"],
+    "drops": [
+      "fiber",
+      "high_grade_technical_manual"
+    ],
     "aura": {
       "name": "dark_knowledge",
       "description": "While in team, increases attack power of Dark Pals.",
@@ -1350,7 +1424,9 @@
     "image": "/public/images/paldeck/016.png",
     "name": "Teafant",
     "wiki": "https://palworld.fandom.com/wiki/Teafant",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Teafant_menu.png/",
     "suitability": [
       {
@@ -1359,7 +1435,9 @@
         "level": 1
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "soothing_shower",
       "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP.",
@@ -1431,7 +1509,9 @@
     "image": "/public/images/paldeck/017.png",
     "name": "Depresso",
     "wiki": "https://palworld.fandom.com/wiki/Depresso",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Depresso_menu.png/",
     "suitability": [
       {
@@ -1450,7 +1530,9 @@
         "level": 1
       }
     ],
-    "drops": ["venom_gland"],
+    "drops": [
+      "venom_gland"
+    ],
     "aura": {
       "name": "caffeine_inoculation",
       "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase.",
@@ -1522,7 +1604,9 @@
     "image": "/public/images/paldeck/018.png",
     "name": "Cremis",
     "wiki": "https://palworld.fandom.com/wiki/Cremis",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Cremis_menu.png/",
     "suitability": [
       {
@@ -1536,7 +1620,9 @@
         "level": 1
       }
     ],
-    "drops": ["wool"],
+    "drops": [
+      "wool"
+    ],
     "aura": {
       "name": "fluffy_wool",
       "description": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch.",
@@ -1608,7 +1694,9 @@
     "image": "/public/images/paldeck/019.png",
     "name": "Daedream",
     "wiki": "https://palworld.fandom.com/wiki/Daedream",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Daedream_menu.png/",
     "suitability": [
       {
@@ -1627,7 +1715,10 @@
         "level": 1
       }
     ],
-    "drops": ["venom_gland", "small_pal_soul"],
+    "drops": [
+      "venom_gland",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "dream_chaser",
       "description": "While in team, appears near the player. Follows up player attacks with magic bullets.",
@@ -1699,7 +1790,9 @@
     "image": "/public/images/paldeck/020.png",
     "name": "Rushoar",
     "wiki": "https://palworld.fandom.com/wiki/Rushoar",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Rushoar_menu.png/",
     "suitability": [
       {
@@ -1708,7 +1801,11 @@
         "level": 1
       }
     ],
-    "drops": ["rushoar_pork", "leather", "bone"],
+    "drops": [
+      "rushoar_pork",
+      "leather",
+      "bone"
+    ],
     "aura": {
       "name": "hard_head",
       "description": "Can be ridden. Increases efficiency of destroying boulders while mounted.",
@@ -1780,7 +1877,9 @@
     "image": "/public/images/paldeck/021.png",
     "name": "Nox",
     "wiki": "https://palworld.fandom.com/wiki/Nox",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/55/Nox_menu.png/",
     "suitability": [
       {
@@ -1789,7 +1888,10 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "small_pal_soul"],
+    "drops": [
+      "leather",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "kuudere",
       "description": "When fighting together, applies Dark damage to the player's attacks.",
@@ -1861,7 +1963,9 @@
     "image": "/public/images/paldeck/022.png",
     "name": "Fuddler",
     "wiki": "https://palworld.fandom.com/wiki/Fuddler",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/64/Fuddler_menu.png/",
     "suitability": [
       {
@@ -1880,7 +1984,9 @@
         "level": 1
       }
     ],
-    "drops": ["leather"],
+    "drops": [
+      "leather"
+    ],
     "aura": {
       "name": "ore_detector",
       "description": "When activated, generates subtle vibrations to detect nearby ore.",
@@ -1952,7 +2058,9 @@
     "image": "/public/images/paldeck/023.png",
     "name": "Killamari",
     "wiki": "https://palworld.fandom.com/wiki/Killamari",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/80/Killamari_menu.png/",
     "suitability": [
       {
@@ -1966,7 +2074,9 @@
         "level": 1
       }
     ],
-    "drops": ["venom_gland"],
+    "drops": [
+      "venom_gland"
+    ],
     "aura": {
       "name": "fried_squid",
       "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding.",
@@ -2038,7 +2148,9 @@
     "image": "/public/images/paldeck/024.png",
     "name": "Mau",
     "wiki": "https://palworld.fandom.com/wiki/Mau",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/17/Mau_menu.png/",
     "suitability": [
       {
@@ -2047,7 +2159,9 @@
         "level": 1
       }
     ],
-    "drops": ["gold_coin"],
+    "drops": [
+      "gold_coin"
+    ],
     "aura": {
       "name": "gold_digger",
       "description": "Sometimes digs up Gold Coin when assigned to Ranch.",
@@ -2119,7 +2233,9 @@
     "image": "/public/images/paldeck/025.png",
     "name": "Celaray",
     "wiki": "https://palworld.fandom.com/wiki/Celaray",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/95/Celaray_menu.png/",
     "suitability": [
       {
@@ -2133,7 +2249,9 @@
         "level": 1
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "zephyr_glider",
       "description": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal.",
@@ -2205,7 +2323,9 @@
     "image": "/public/images/paldeck/026.png",
     "name": "Direhowl",
     "wiki": "https://palworld.fandom.com/wiki/Direhowl",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Direhowl_menu.png/",
     "suitability": [
       {
@@ -2214,7 +2334,11 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "ruby", "gold_coin"],
+    "drops": [
+      "leather",
+      "ruby",
+      "gold_coin"
+    ],
     "aura": {
       "name": "direhowl_rider",
       "description": "Can be ridden.\nMoves slightly faster than most mounts.",
@@ -2286,7 +2410,9 @@
     "image": "/public/images/paldeck/027.png",
     "name": "Tocotoco",
     "wiki": "https://palworld.fandom.com/wiki/Tocotoco",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Tocotoco_menu.png/",
     "suitability": [
       {
@@ -2295,7 +2421,10 @@
         "level": 1
       }
     ],
-    "drops": ["gunpowder", "tocotoco_feather"],
+    "drops": [
+      "gunpowder",
+      "tocotoco_feather"
+    ],
     "aura": {
       "name": "eggbomb_launcher",
       "description": "When activated, equips to the player and transforms into an egg launcher.",
@@ -2367,7 +2496,9 @@
     "image": "/public/images/paldeck/028.png",
     "name": "Flopie",
     "wiki": "https://palworld.fandom.com/wiki/Flopie",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Flopie_menu.png/",
     "suitability": [
       {
@@ -2396,7 +2527,10 @@
         "level": 1
       }
     ],
-    "drops": ["low_grade_medical_supplies", "wheat_seeds"],
+    "drops": [
+      "low_grade_medical_supplies",
+      "wheat_seeds"
+    ],
     "aura": {
       "name": "helper_bunny",
       "description": "While in team, appears nearby the player. Automatically picks up nearby items.",
@@ -2468,7 +2602,9 @@
     "image": "/public/images/paldeck/029.png",
     "name": "Mozzarina",
     "wiki": "https://palworld.fandom.com/wiki/Mozzarina",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3a/Mozzarina_menu.png/",
     "suitability": [
       {
@@ -2477,7 +2613,10 @@
         "level": 1
       }
     ],
-    "drops": ["mozzarina_meat", "milk"],
+    "drops": [
+      "mozzarina_meat",
+      "milk"
+    ],
     "aura": {
       "name": "milk_maker",
       "description": "Sometimes produces Milk when assigned to ranch.",
@@ -2549,7 +2688,9 @@
     "image": "/public/images/paldeck/030.png",
     "name": "Bristla",
     "wiki": "https://palworld.fandom.com/wiki/Bristla",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Bristla_menu.png/",
     "suitability": [
       {
@@ -2578,7 +2719,10 @@
         "level": 1
       }
     ],
-    "drops": ["wheat_seeds", "lettuce_seeds"],
+    "drops": [
+      "wheat_seeds",
+      "lettuce_seeds"
+    ],
     "aura": {
       "name": "princess_gaze",
       "description": "While in team, increases attack power of Grass Pals.",
@@ -2650,7 +2794,9 @@
     "image": "/public/images/paldeck/031.png",
     "name": "Gobfin",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Gobfin_menu.png/",
     "suitability": [
       {
@@ -2669,7 +2815,9 @@
         "level": 2
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "angry_shark",
       "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power.",
@@ -2741,7 +2889,9 @@
     "image": "/public/images/paldeck/032.png",
     "name": "Hangyu",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Hangyu_menu.png/",
     "suitability": [
       {
@@ -2760,7 +2910,9 @@
         "level": 1
       }
     ],
-    "drops": ["fiber"],
+    "drops": [
+      "fiber"
+    ],
     "aura": {
       "name": "flying_trapeze",
       "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
@@ -2832,7 +2984,9 @@
     "image": "/public/images/paldeck/033.png",
     "name": "Mossanda",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mossanda_menu.png/",
     "suitability": [
       {
@@ -2856,7 +3010,11 @@
         "level": 3
       }
     ],
-    "drops": ["mushroom", "leather", "tomato_seeds"],
+    "drops": [
+      "mushroom",
+      "leather",
+      "tomato_seeds"
+    ],
     "aura": {
       "name": "grenadier_panda",
       "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
@@ -2928,7 +3086,9 @@
     "image": "/public/images/paldeck/034.png",
     "name": "Woolipop",
     "wiki": "https://palworld.fandom.com/wiki/Woolipop",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/fa/Woolipop_menu.png/",
     "suitability": [
       {
@@ -2937,7 +3097,10 @@
         "level": 1
       }
     ],
-    "drops": ["cotton_candy", "high_quality_pal_oil"],
+    "drops": [
+      "cotton_candy",
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "candy_pop",
       "description": "Sometimes drops Cotton Candy when assigned to ranch.",
@@ -3009,7 +3172,9 @@
     "image": "/public/images/paldeck/035.png",
     "name": "Caprity",
     "wiki": "https://palworld.fandom.com/wiki/Caprity",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Caprity_menu.png/",
     "suitability": [
       {
@@ -3023,7 +3188,11 @@
         "level": 1
       }
     ],
-    "drops": ["caprity_meat", "red_berries", "horn"],
+    "drops": [
+      "caprity_meat",
+      "red_berries",
+      "horn"
+    ],
     "aura": {
       "name": "berry_picker",
       "description": "Sometimes drops Red Berries from its back when assigned to Ranch.",
@@ -3095,7 +3264,9 @@
     "image": "/public/images/paldeck/036.png",
     "name": "Melpaca",
     "wiki": "https://palworld.fandom.com/wiki/Melpaca",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7f/Melpaca_menu.png/",
     "suitability": [
       {
@@ -3104,7 +3275,10 @@
         "level": 1
       }
     ],
-    "drops": ["wool", "leather"],
+    "drops": [
+      "wool",
+      "leather"
+    ],
     "aura": {
       "name": "pacapaca_wool",
       "description": "Can be ridden.\nSometimes drops Wool when assigned to Ranch.",
@@ -3176,7 +3350,9 @@
     "image": "/public/images/paldeck/037.png",
     "name": "Eikthyrdeer",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Eikthyrdeer_menu.png/",
     "suitability": [
       {
@@ -3185,7 +3361,11 @@
         "level": 2
       }
     ],
-    "drops": ["eikthyrdeer_venison", "leather", "horn"],
+    "drops": [
+      "eikthyrdeer_venison",
+      "leather",
+      "horn"
+    ],
     "aura": {
       "name": "guardian_of_the_forest",
       "description": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees.",
@@ -3257,7 +3437,9 @@
     "image": "/public/images/paldeck/038.png",
     "name": "Nitewing",
     "wiki": "https://palworld.fandom.com/wiki/Nitewing",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/34/Nitewing_menu.png/",
     "suitability": [
       {
@@ -3266,7 +3448,9 @@
         "level": 2
       }
     ],
-    "drops": ["leather"],
+    "drops": [
+      "leather"
+    ],
     "aura": {
       "name": "travel_companion",
       "description": "Can be ridden as a flying mount.",
@@ -3338,7 +3522,9 @@
     "image": "/public/images/paldeck/039.png",
     "name": "Ribbuny",
     "wiki": "https://palworld.fandom.com/wiki/Ribbuny",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Ribbuny_menu.png/",
     "suitability": [
       {
@@ -3357,7 +3543,10 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "beautiful_flower"],
+    "drops": [
+      "leather",
+      "beautiful_flower"
+    ],
     "aura": {
       "name": "skilled_fingers",
       "description": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench.",
@@ -3429,7 +3618,10 @@
     "image": "/public/images/paldeck/040.png",
     "name": "Incineram",
     "wiki": "https://palworld.fandom.com/wiki/Incineram",
-    "types": ["fire", "dark"],
+    "types": [
+      "fire",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Incineram_menu.png/",
     "suitability": [
       {
@@ -3453,7 +3645,10 @@
         "level": 1
       }
     ],
-    "drops": ["horn", "leather"],
+    "drops": [
+      "horn",
+      "leather"
+    ],
     "aura": {
       "name": "flameclaw_hunter",
       "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
@@ -3525,7 +3720,9 @@
     "image": "/public/images/paldeck/041.png",
     "name": "Cinnamoth",
     "wiki": "https://palworld.fandom.com/wiki/Cinnamoth",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7e/Cinnamoth_menu.png/",
     "suitability": [
       {
@@ -3539,7 +3736,11 @@
         "level": 1
       }
     ],
-    "drops": ["honey", "lettuce_seeds", "wheat_seeds"],
+    "drops": [
+      "honey",
+      "lettuce_seeds",
+      "wheat_seeds"
+    ],
     "aura": {
       "name": "mysterious_scales",
       "description": "When activated, attacks target enemy with Poison Fog.",
@@ -3611,7 +3812,9 @@
     "image": "/public/images/paldeck/042.png",
     "name": "Arsox",
     "wiki": "https://palworld.fandom.com/wiki/Arsox",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f5/Arsox_menu.png/",
     "suitability": [
       {
@@ -3625,7 +3828,10 @@
         "level": 1
       }
     ],
-    "drops": ["horn", "flame_organ"],
+    "drops": [
+      "horn",
+      "flame_organ"
+    ],
     "aura": {
       "name": "warm_body",
       "description": "Can be ridden. Keeps the rider warm in cold environments.",
@@ -3697,7 +3903,9 @@
     "image": "/public/images/paldeck/043.png",
     "name": "Dumud",
     "wiki": "https://palworld.fandom.com/wiki/Dumud",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Dumud_menu.png/",
     "suitability": [
       {
@@ -3716,7 +3924,10 @@
         "level": 1
       }
     ],
-    "drops": ["raw_dumud", "high_quality_pal_oil"],
+    "drops": [
+      "raw_dumud",
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "soil_improver",
       "description": "While in team, increases attack power of Ground Pals.",
@@ -3731,7 +3942,9 @@
     "image": "/public/images/paldeck/044.png",
     "name": "Cawgnito",
     "wiki": "https://palworld.fandom.com/wiki/Cawgnito",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f6/Cawgnito_menu.png/",
     "suitability": [
       {
@@ -3740,7 +3953,11 @@
         "level": 1
       }
     ],
-    "drops": ["bone", "venom_gland", "small_pal_soul"],
+    "drops": [
+      "bone",
+      "venom_gland",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "telepeck",
       "description": "When activated, attacks targeted enemy with a powerful Phantom Peck.",
@@ -3812,7 +4029,9 @@
     "image": "/public/images/paldeck/045.png",
     "name": "Leezpunk",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Leezpunk_menu.png/",
     "suitability": [
       {
@@ -3831,7 +4050,10 @@
         "level": 1
       }
     ],
-    "drops": ["copper_key", "silver_key"],
+    "drops": [
+      "copper_key",
+      "silver_key"
+    ],
     "aura": {
       "name": "sixth_sense",
       "description": "When activated, utilizes its sixth sense to detect nearby dungeons.",
@@ -3903,7 +4125,9 @@
     "image": "/public/images/paldeck/046.png",
     "name": "Loupmoon",
     "wiki": "https://palworld.fandom.com/wiki/Loupmoon",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Loupmoon_menu.png/",
     "suitability": [
       {
@@ -3912,7 +4136,9 @@
         "level": 2
       }
     ],
-    "drops": ["bone"],
+    "drops": [
+      "bone"
+    ],
     "aura": {
       "name": "claws_glistening_in_the_dark",
       "description": "When activated, attacks targeted enemy with a powerful Jumping Claw.",
@@ -3984,7 +4210,9 @@
     "image": "/public/images/paldeck/047.png",
     "name": "Galeclaw",
     "wiki": "https://palworld.fandom.com/wiki/Galeclaw",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/08/Galeclaw_menu.png/",
     "suitability": [
       {
@@ -3993,7 +4221,10 @@
         "level": 2
       }
     ],
-    "drops": ["galeclaw_poultry", "leather"],
+    "drops": [
+      "galeclaw_poultry",
+      "leather"
+    ],
     "aura": {
       "name": "galeclaw_rider",
       "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal.",
@@ -4065,7 +4296,9 @@
     "image": "/public/images/paldeck/048.png",
     "name": "Robinquill",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bb/Robinquill_menu.png/",
     "suitability": [
       {
@@ -4099,7 +4332,10 @@
         "level": 2
       }
     ],
-    "drops": ["wheat_seeds", "arrow"],
+    "drops": [
+      "wheat_seeds",
+      "arrow"
+    ],
     "aura": {
       "name": "hawk_eye",
       "description": "While fighting together, allows you to deal more damage to weak points.",
@@ -4171,7 +4407,9 @@
     "image": "/public/images/paldeck/049.png",
     "name": "Gorirat",
     "wiki": "https://palworld.fandom.com/wiki/Gorirat",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Gorirat_menu.png/",
     "suitability": [
       {
@@ -4190,7 +4428,10 @@
         "level": 3
       }
     ],
-    "drops": ["leather", "bone"],
+    "drops": [
+      "leather",
+      "bone"
+    ],
     "aura": {
       "name": "full-power_gorilla_mode",
       "description": "When activated, unleashes a primal fury that increases Gorirat's attack power.",
@@ -4262,7 +4503,9 @@
     "image": "/public/images/paldeck/050.png",
     "name": "Beegarde",
     "wiki": "https://palworld.fandom.com/wiki/Beegarde",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7b/Beegarde_menu.png/",
     "suitability": [
       {
@@ -4301,7 +4544,9 @@
         "level": 1
       }
     ],
-    "drops": ["honey"],
+    "drops": [
+      "honey"
+    ],
     "aura": {
       "name": "worker_bee",
       "description": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased.",
@@ -4373,7 +4618,9 @@
     "image": "/public/images/paldeck/051.png",
     "name": "Elizabee",
     "wiki": "https://palworld.fandom.com/wiki/Elizabee",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Elizabee_menu.png/",
     "suitability": [
       {
@@ -4402,7 +4649,10 @@
         "level": 2
       }
     ],
-    "drops": ["honey", "elizabee's_staff"],
+    "drops": [
+      "honey",
+      "elizabee's_staff"
+    ],
     "aura": {
       "name": "queen_bee_command",
       "description": "While fighting together, stats will increase the more Beegarde are in your team.",
@@ -4474,7 +4724,9 @@
     "image": "/public/images/paldeck/052.png",
     "name": "Grintale",
     "wiki": "https://palworld.fandom.com/wiki/Grintale",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c3/Grintale_menu.png/",
     "suitability": [
       {
@@ -4483,7 +4735,9 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil"],
+    "drops": [
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "plump_body",
       "description": "Can be ridden. Enhances Neutral attacks while mounted.",
@@ -4555,7 +4809,9 @@
     "image": "/public/images/paldeck/053.png",
     "name": "Swee",
     "wiki": "https://palworld.fandom.com/wiki/Swee",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b5/Swee_menu.png/",
     "suitability": [
       {
@@ -4569,7 +4825,9 @@
         "level": 1
       }
     ],
-    "drops": ["wool"],
+    "drops": [
+      "wool"
+    ],
     "aura": {
       "name": "fluffy",
       "description": "While in team, Sweepa's stats will be increased.",
@@ -4641,7 +4899,9 @@
     "image": "/public/images/paldeck/054.png",
     "name": "Sweepa",
     "wiki": "https://palworld.fandom.com/wiki/Sweepa",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f3/Sweepa_menu.png/",
     "suitability": [
       {
@@ -4655,7 +4915,9 @@
         "level": 2
       }
     ],
-    "drops": ["wool"],
+    "drops": [
+      "wool"
+    ],
     "aura": {
       "name": "king_of_fluff",
       "description": "While fighting together, stats will increase the more Swee are in your team.",
@@ -4727,7 +4989,10 @@
     "image": "/public/images/paldeck/055.png",
     "name": "Chillet",
     "wiki": "https://palworld.fandom.com/wiki/Chillet",
-    "types": ["ice", "dragon"],
+    "types": [
+      "ice",
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Chillet_menu.png/",
     "suitability": [
       {
@@ -4741,7 +5006,9 @@
         "level": 1
       }
     ],
-    "drops": ["leather"],
+    "drops": [
+      "leather"
+    ],
     "aura": {
       "name": "wriggling_weasel",
       "description": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted.",
@@ -4813,7 +5080,9 @@
     "image": "/public/images/paldeck/056.png",
     "name": "Univolt",
     "wiki": "https://palworld.fandom.com/wiki/Univolt",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Univolt_menu.png/",
     "suitability": [
       {
@@ -4827,7 +5096,11 @@
         "level": 1
       }
     ],
-    "drops": ["leather", "electric_organ", "horn"],
+    "drops": [
+      "leather",
+      "electric_organ",
+      "horn"
+    ],
     "aura": {
       "name": "swift_deity",
       "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted.",
@@ -4899,7 +5172,9 @@
     "image": "/public/images/paldeck/057.png",
     "name": "Foxcicle",
     "wiki": "https://palworld.fandom.com/wiki/Foxcicle",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Foxcicle_menu.png/",
     "suitability": [
       {
@@ -4908,7 +5183,10 @@
         "level": 2
       }
     ],
-    "drops": ["leather", "ice_organ"],
+    "drops": [
+      "leather",
+      "ice_organ"
+    ],
     "aura": {
       "name": "aurora_guide",
       "description": "While in a team, increases attack power of Ice pals.",
@@ -4980,7 +5258,9 @@
     "image": "/public/images/paldeck/058.png",
     "name": "Pyrin",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e6/Pyrin_menu.png/",
     "suitability": [
       {
@@ -4994,7 +5274,10 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ", "leather"],
+    "drops": [
+      "flame_organ",
+      "leather"
+    ],
     "aura": {
       "name": "red_hare",
       "description": "Can be ridden. Applies Fire damage to the player's attacks while mounted.",
@@ -5066,7 +5349,9 @@
     "image": "/public/images/paldeck/059.png",
     "name": "Reindrix",
     "wiki": "https://palworld.fandom.com/wiki/Reindrix",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c1/Reindrix_menu.png/",
     "suitability": [
       {
@@ -5080,7 +5365,12 @@
         "level": 2
       }
     ],
-    "drops": ["reindrix_venison", "leather", "horn", "ice_organ"],
+    "drops": [
+      "reindrix_venison",
+      "leather",
+      "horn",
+      "ice_organ"
+    ],
     "aura": {
       "name": "cool_body",
       "description": "Can be ridden.\nKeeps the rider cool in hot environments.",
@@ -5152,7 +5442,9 @@
     "image": "/public/images/paldeck/060.png",
     "name": "Rayhound",
     "wiki": "https://palworld.fandom.com/wiki/Rayhound",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3f/Rayhound_menu.png/",
     "suitability": [
       {
@@ -5161,7 +5453,9 @@
         "level": 2
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "jumping_force",
       "description": "Can be ridden. Can double jump while mounted.",
@@ -5233,7 +5527,9 @@
     "image": "/public/images/paldeck/061.png",
     "name": "Kitsun",
     "wiki": "https://palworld.fandom.com/wiki/Kitsun",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6b/Kitsun_menu.png/",
     "suitability": [
       {
@@ -5242,7 +5538,10 @@
         "level": 2
       }
     ],
-    "drops": ["flame_organ", "leather"],
+    "drops": [
+      "flame_organ",
+      "leather"
+    ],
     "aura": {
       "name": "clear_mind",
       "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal.",
@@ -5314,7 +5613,9 @@
     "image": "/public/images/paldeck/062.png",
     "name": "Dazzi",
     "wiki": "https://palworld.fandom.com/wiki/Dazzi",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b0/Dazzi_menu.png/",
     "suitability": [
       {
@@ -5333,7 +5634,9 @@
         "level": 1
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "lady_of_lightning",
       "description": "While in team, appears near the player. Follows up player attacks with lightning bolts.",
@@ -5405,7 +5708,9 @@
     "image": "/public/images/paldeck/063.png",
     "name": "Lunaris",
     "wiki": "https://palworld.fandom.com/wiki/Lunaris",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/38/Lunaris_menu.png/",
     "suitability": [
       {
@@ -5424,7 +5729,9 @@
         "level": 3
       }
     ],
-    "drops": ["paldium_fragment"],
+    "drops": [
+      "paldium_fragment"
+    ],
     "aura": {
       "name": "antigravity",
       "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity.",
@@ -5496,7 +5803,10 @@
     "image": "/public/images/paldeck/064.png",
     "name": "Dinossom",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom",
-    "types": ["grass", "dragon"],
+    "types": [
+      "grass",
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_menu.png/",
     "suitability": [
       {
@@ -5510,7 +5820,9 @@
         "level": 2
       }
     ],
-    "drops": ["wheat_seeds"],
+    "drops": [
+      "wheat_seeds"
+    ],
     "aura": {
       "name": "fragrant_dragon",
       "description": "Can be ridden.\nEnchances Grass attacks while mounted.",
@@ -5582,7 +5894,9 @@
     "image": "/public/images/paldeck/065.png",
     "name": "Surfent",
     "wiki": "https://palworld.fandom.com/wiki/Surfent",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1d/Surfent_menu.png/",
     "suitability": [
       {
@@ -5591,7 +5905,9 @@
         "level": 2
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "swift_swimmer",
       "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
@@ -5663,7 +5979,9 @@
     "image": "/public/images/paldeck/066.png",
     "name": "Maraith",
     "wiki": "https://palworld.fandom.com/wiki/Maraith",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Maraith_menu.png/",
     "suitability": [
       {
@@ -5677,7 +5995,10 @@
         "level": 1
       }
     ],
-    "drops": ["bone", "small_pal_soul"],
+    "drops": [
+      "bone",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "messenger_of_death",
       "description": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted.",
@@ -5749,7 +6070,9 @@
     "image": "/public/images/paldeck/067.png",
     "name": "Digtoise",
     "wiki": "https://palworld.fandom.com/wiki/Digtoise",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Digtoise_menu.png/",
     "suitability": [
       {
@@ -5758,7 +6081,10 @@
         "level": 3
       }
     ],
-    "drops": ["ore", "high_quality_pal_oil"],
+    "drops": [
+      "ore",
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "drill_crusher",
       "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently.",
@@ -5830,7 +6156,9 @@
     "image": "/public/images/paldeck/068.png",
     "name": "Tombat",
     "wiki": "https://palworld.fandom.com/wiki/Tombat",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/f2/Tombat_menu.png/",
     "suitability": [
       {
@@ -5849,7 +6177,10 @@
         "level": 2
       }
     ],
-    "drops": ["leather", "small_pal_soul"],
+    "drops": [
+      "leather",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "ultrasonic_sensor",
       "description": "When activated, uses ultrasonic waves to detect the location of nearby Pals.",
@@ -5921,7 +6252,9 @@
     "image": "/public/images/paldeck/069.png",
     "name": "Lovander",
     "wiki": "https://palworld.fandom.com/wiki/Lovander",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c8/Lovander_menu.png/",
     "suitability": [
       {
@@ -5945,7 +6278,12 @@
         "level": 1
       }
     ],
-    "drops": ["mushroom", "cake", "suspicious_juice", "strange_juice"],
+    "drops": [
+      "mushroom",
+      "cake",
+      "suspicious_juice",
+      "strange_juice"
+    ],
     "aura": {
       "name": "heart_drain",
       "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP.",
@@ -6017,7 +6355,9 @@
     "image": "/public/images/paldeck/070.png",
     "name": "Flambelle",
     "wiki": "https://palworld.fandom.com/wiki/Flambelle",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/20/Flambelle_menu.png/",
     "suitability": [
       {
@@ -6041,7 +6381,10 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ", "high_quality_pal_oil"],
+    "drops": [
+      "flame_organ",
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "magma_tears",
       "description": "Sometimes produces Flame Organ when assigned to Ranch.",
@@ -6113,7 +6456,10 @@
     "image": "/public/images/paldeck/071.png",
     "name": "Vanwyrm",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm",
-    "types": ["fire", "dark"],
+    "types": [
+      "fire",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Vanwyrm_menu.png/",
     "suitability": [
       {
@@ -6127,7 +6473,11 @@
         "level": 3
       }
     ],
-    "drops": ["bone", "ruby", "gold_coin"],
+    "drops": [
+      "bone",
+      "ruby",
+      "gold_coin"
+    ],
     "aura": {
       "name": "aerial_marauder",
       "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
@@ -6199,7 +6549,9 @@
     "image": "/public/images/paldeck/072.png",
     "name": "Bushi",
     "wiki": "https://palworld.fandom.com/wiki/Bushi",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/73/Bushi_menu.png/",
     "suitability": [
       {
@@ -6228,7 +6580,10 @@
         "level": 1
       }
     ],
-    "drops": ["bone", "ingot"],
+    "drops": [
+      "bone",
+      "ingot"
+    ],
     "aura": {
       "name": "brandish_blade",
       "description": "When activated, attacks targeted enemy with a powerful Iaigiri.",
@@ -6300,7 +6655,9 @@
     "image": "/public/images/paldeck/073.png",
     "name": "Beakon",
     "wiki": "https://palworld.fandom.com/wiki/Beakon",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Beakon_menu.png/",
     "suitability": [
       {
@@ -6319,7 +6676,9 @@
         "level": 3
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "thunderous",
       "description": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted.",
@@ -6391,7 +6750,9 @@
     "image": "/public/images/paldeck/074.png",
     "name": "Ragnahawk",
     "wiki": "https://palworld.fandom.com/wiki/Ragnahawk",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/dd/Ragnahawk_menu.png/",
     "suitability": [
       {
@@ -6405,7 +6766,9 @@
         "level": 3
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "flame_wing",
       "description": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted.",
@@ -6477,7 +6840,9 @@
     "image": "/public/images/paldeck/075.png",
     "name": "Katress",
     "wiki": "https://palworld.fandom.com/wiki/Katress",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9e/Katress_menu.png/",
     "suitability": [
       {
@@ -6496,7 +6861,11 @@
         "level": 2
       }
     ],
-    "drops": ["leather", "katress_hair", "high_grade_technical_manual"],
+    "drops": [
+      "leather",
+      "katress_hair",
+      "high_grade_technical_manual"
+    ],
     "aura": {
       "name": "grimoire_collector",
       "description": "While fighting together, Neutral Pals drop more items when defeated.",
@@ -6568,7 +6937,9 @@
     "image": "/public/images/paldeck/076.png",
     "name": "Wixen",
     "wiki": "https://palworld.fandom.com/wiki/Wixen",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/85/Wixen_menu.png/",
     "suitability": [
       {
@@ -6587,7 +6958,10 @@
         "level": 2
       }
     ],
-    "drops": ["flame_organ", "high_grade_technical_manual"],
+    "drops": [
+      "flame_organ",
+      "high_grade_technical_manual"
+    ],
     "aura": {
       "name": "lord_fox",
       "description": "When fighting together, applies Fire damage to the player's attacks.",
@@ -6659,7 +7033,9 @@
     "image": "/public/images/paldeck/077.png",
     "name": "Verdash",
     "wiki": "https://palworld.fandom.com/wiki/Verdash",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/43/Verdash_menu.png/",
     "suitability": [
       {
@@ -6688,7 +7064,10 @@
         "level": 2
       }
     ],
-    "drops": ["leather", "bone"],
+    "drops": [
+      "leather",
+      "bone"
+    ],
     "aura": {
       "name": "grassland_speedster",
       "description": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks.",
@@ -6760,7 +7139,9 @@
     "image": "/public/images/paldeck/078.png",
     "name": "Vaelet",
     "wiki": "https://palworld.fandom.com/wiki/Vaelet",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/24/Vaelet_menu.png/",
     "suitability": [
       {
@@ -6789,7 +7170,10 @@
         "level": 1
       }
     ],
-    "drops": ["low_grade_medical_supplies", "tomato_seeds"],
+    "drops": [
+      "low_grade_medical_supplies",
+      "tomato_seeds"
+    ],
     "aura": {
       "name": "purification_of_gaia",
       "description": "While fighting together, Ground Pals drop more items when defeated.",
@@ -6861,7 +7245,9 @@
     "image": "/public/images/paldeck/079.png",
     "name": "Sibelyx",
     "wiki": "https://palworld.fandom.com/wiki/Sibelyx",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/66/Sibelyx_menu.png/",
     "suitability": [
       {
@@ -6880,7 +7266,10 @@
         "level": 1
       }
     ],
-    "drops": ["high_quality_cloth", "ice_organ"],
+    "drops": [
+      "high_quality_cloth",
+      "ice_organ"
+    ],
     "aura": {
       "name": "silk_maker",
       "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch.",
@@ -6952,7 +7341,9 @@
     "image": "/public/images/paldeck/080.png",
     "name": "Elphidran",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran",
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a6/Elphidran_menu.png/",
     "suitability": [
       {
@@ -6961,7 +7352,9 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil"],
+    "drops": [
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "amicable_holy_dragon",
       "description": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated.",
@@ -7033,7 +7426,9 @@
     "image": "/public/images/paldeck/081.png",
     "name": "Kelpsea",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/1b/Kelpsea_menu.png/",
     "suitability": [
       {
@@ -7042,7 +7437,10 @@
         "level": 1
       }
     ],
-    "drops": ["raw_kelpsea", "pal_fluids"],
+    "drops": [
+      "raw_kelpsea",
+      "pal_fluids"
+    ],
     "aura": {
       "name": "aqua_spout",
       "description": "While in team, increases attack power of Water Pals.",
@@ -7114,7 +7512,10 @@
     "image": "/public/images/paldeck/082.png",
     "name": "Azurobe",
     "wiki": "https://palworld.fandom.com/wiki/Azurobe",
-    "types": ["water", "dragon"],
+    "types": [
+      "water",
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a0/Azurobe_menu.png/",
     "suitability": [
       {
@@ -7123,7 +7524,10 @@
         "level": 3
       }
     ],
-    "drops": ["cloth", "precious_dragon_stone"],
+    "drops": [
+      "cloth",
+      "precious_dragon_stone"
+    ],
     "aura": {
       "name": "waterwing_dance",
       "description": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted.",
@@ -7195,7 +7599,9 @@
     "image": "/public/images/paldeck/083.png",
     "name": "Cryolinx",
     "wiki": "https://palworld.fandom.com/wiki/Cryolinx",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Cryolinx_menu.png/",
     "suitability": [
       {
@@ -7214,7 +7620,9 @@
         "level": 3
       }
     ],
-    "drops": ["ice_organ"],
+    "drops": [
+      "ice_organ"
+    ],
     "aura": {
       "name": "dragon_hunter",
       "description": "While fighting together, Dragon Pals drop more items when defeated.",
@@ -7286,7 +7694,9 @@
     "image": "/public/images/paldeck/084.png",
     "name": "Blazehowl",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/33/Blazehowl_menu.png/",
     "suitability": [
       {
@@ -7300,7 +7710,9 @@
         "level": 2
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "hellflame_lion",
       "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
@@ -7372,7 +7784,10 @@
     "image": "/public/images/paldeck/085.png",
     "name": "Relaxaurus",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus",
-    "types": ["dragon", "water"],
+    "types": [
+      "dragon",
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/01/Relaxaurus_menu.png/",
     "suitability": [
       {
@@ -7386,7 +7801,10 @@
         "level": 1
       }
     ],
-    "drops": ["high_quality_pal_oil", "ruby"],
+    "drops": [
+      "high_quality_pal_oil",
+      "ruby"
+    ],
     "aura": {
       "name": "hungry_missile",
       "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
@@ -7458,7 +7876,9 @@
     "image": "/public/images/paldeck/086.png",
     "name": "Broncherry",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/bd/Broncherry_menu.png/",
     "suitability": [
       {
@@ -7467,7 +7887,10 @@
         "level": 3
       }
     ],
-    "drops": ["broncherry_meat", "tomato_seeds"],
+    "drops": [
+      "broncherry_meat",
+      "tomato_seeds"
+    ],
     "aura": {
       "name": "overaffectionate",
       "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
@@ -7539,7 +7962,9 @@
     "image": "/public/images/paldeck/087.png",
     "name": "Petallia",
     "wiki": "https://palworld.fandom.com/wiki/Petallia",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/28/Petallia_menu.png/",
     "suitability": [
       {
@@ -7568,7 +7993,9 @@
         "level": 1
       }
     ],
-    "drops": ["beautiful_flower"],
+    "drops": [
+      "beautiful_flower"
+    ],
     "aura": {
       "name": "blessing_of_the_flower_spirit",
       "description": "When activated, uses medicinal flowers to restore the player's HP.",
@@ -7640,7 +8067,10 @@
     "image": "/public/images/paldeck/088.png",
     "name": "Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Reptyro",
-    "types": ["fire", "ground"],
+    "types": [
+      "fire",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d0/Reptyro_menu.png/",
     "suitability": [
       {
@@ -7654,7 +8084,9 @@
         "level": 3
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "ore-loving_beast",
       "description": "Can be ridden. Improves efficiency of mining ores while mounted.",
@@ -7726,7 +8158,9 @@
     "image": "/public/images/paldeck/089.png",
     "name": "Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Kingpaca",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9d/Kingpaca_menu.png/",
     "suitability": [
       {
@@ -7735,7 +8169,9 @@
         "level": 1
       }
     ],
-    "drops": ["wool"],
+    "drops": [
+      "wool"
+    ],
     "aura": {
       "name": "king_of_muscles",
       "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
@@ -7807,7 +8243,9 @@
     "image": "/public/images/paldeck/090.png",
     "name": "Mammorest",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Mammorest_menu.png/",
     "suitability": [
       {
@@ -7826,7 +8264,11 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil", "leather", "mammorest_meat"],
+    "drops": [
+      "high_quality_pal_oil",
+      "leather",
+      "mammorest_meat"
+    ],
     "aura": {
       "name": "gaia_crusher",
       "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
@@ -7898,7 +8340,9 @@
     "image": "/public/images/paldeck/091.png",
     "name": "Wumpo",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0e/Wumpo_menu.png/",
     "suitability": [
       {
@@ -7922,7 +8366,10 @@
         "level": 4
       }
     ],
-    "drops": ["ice_organ", "beautiful_flower"],
+    "drops": [
+      "ice_organ",
+      "beautiful_flower"
+    ],
     "aura": {
       "name": "guardian_of_the_snowy_mountain",
       "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity.",
@@ -7994,7 +8441,10 @@
     "image": "/public/images/paldeck/092.png",
     "name": "Warsect",
     "wiki": "https://palworld.fandom.com/wiki/Warsect",
-    "types": ["grass", "ground"],
+    "types": [
+      "grass",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a7/Warsect_menu.png/",
     "suitability": [
       {
@@ -8018,7 +8468,9 @@
         "level": 3
       }
     ],
-    "drops": ["honey"],
+    "drops": [
+      "honey"
+    ],
     "aura": {
       "name": "hard_armor",
       "description": "When fighting together, increases player's defense and applies Fire damage to the player's attacks.",
@@ -8090,7 +8542,9 @@
     "image": "/public/images/paldeck/093.png",
     "name": "Fenglope",
     "wiki": "https://palworld.fandom.com/wiki/Fenglope",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Fenglope_menu.png/",
     "suitability": [
       {
@@ -8099,7 +8553,10 @@
         "level": 2
       }
     ],
-    "drops": ["leather", "horn"],
+    "drops": [
+      "leather",
+      "horn"
+    ],
     "aura": {
       "name": "wind_and_clouds",
       "description": "Can be ridden. Can double jump while mounted.",
@@ -8171,7 +8628,9 @@
     "image": "/public/images/paldeck/094.png",
     "name": "Felbat",
     "wiki": "https://palworld.fandom.com/wiki/Felbat",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7d/Felbat_menu.png/",
     "suitability": [
       {
@@ -8180,7 +8639,10 @@
         "level": 3
       }
     ],
-    "drops": ["cloth", "small_pal_soul"],
+    "drops": [
+      "cloth",
+      "small_pal_soul"
+    ],
     "aura": {
       "name": "life_steal",
       "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP.",
@@ -8252,7 +8714,9 @@
     "image": "/public/images/paldeck/095.png",
     "name": "Quivern",
     "wiki": "https://palworld.fandom.com/wiki/Quivern",
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d9/Quivern_menu.png/",
     "suitability": [
       {
@@ -8276,7 +8740,9 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil"],
+    "drops": [
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "sky_dragon's_affection",
       "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted.",
@@ -8348,7 +8814,9 @@
     "image": "/public/images/paldeck/096.png",
     "name": "Blazamut",
     "wiki": "https://palworld.fandom.com/wiki/Blazamut",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ee/Blazamut_menu.png/",
     "suitability": [
       {
@@ -8362,7 +8830,10 @@
         "level": 4
       }
     ],
-    "drops": ["coal", "flame_organ"],
+    "drops": [
+      "coal",
+      "flame_organ"
+    ],
     "aura": {
       "name": "magma_kaiser",
       "description": "Can be ridden. Enchances Fire attacks while mounted.",
@@ -8434,7 +8905,9 @@
     "image": "/public/images/paldeck/097.png",
     "name": "Helzephyr",
     "wiki": "https://palworld.fandom.com/wiki/Helzephyr",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/3c/Helzephyr_menu.png/",
     "suitability": [
       {
@@ -8443,7 +8916,10 @@
         "level": 3
       }
     ],
-    "drops": ["venom_gland", "medium_pal_soul"],
+    "drops": [
+      "venom_gland",
+      "medium_pal_soul"
+    ],
     "aura": {
       "name": "wings_of_death",
       "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted.",
@@ -8515,7 +8991,10 @@
     "image": "/public/images/paldeck/098.png",
     "name": "Astegon",
     "wiki": "https://palworld.fandom.com/wiki/Astegon",
-    "types": ["dragon", "dark"],
+    "types": [
+      "dragon",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/d4/Astegon_menu.png/",
     "suitability": [
       {
@@ -8529,7 +9008,10 @@
         "level": 4
       }
     ],
-    "drops": ["pal_metal_ingot", "pure_quartz"],
+    "drops": [
+      "pal_metal_ingot",
+      "pure_quartz"
+    ],
     "aura": {
       "name": "black_anklyosaur",
       "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted.",
@@ -8601,7 +9083,10 @@
     "image": "/public/images/paldeck/099.png",
     "name": "Menasting",
     "wiki": "https://palworld.fandom.com/wiki/Menasting",
-    "types": ["dark", "ground"],
+    "types": [
+      "dark",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/57/Menasting_menu.png/",
     "suitability": [
       {
@@ -8615,7 +9100,10 @@
         "level": 3
       }
     ],
-    "drops": ["coal", "venom_gland"],
+    "drops": [
+      "coal",
+      "venom_gland"
+    ],
     "aura": {
       "name": "steel_scorpion",
       "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated.",
@@ -8687,7 +9175,9 @@
     "image": "/public/images/paldeck/100.png",
     "name": "Anubis",
     "wiki": "https://palworld.fandom.com/wiki/Anubis",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/21/Anubis_menu.png/",
     "suitability": [
       {
@@ -8706,7 +9196,11 @@
         "level": 2
       }
     ],
-    "drops": ["bone", "large_pal_soul", "innovative_technical_manual"],
+    "drops": [
+      "bone",
+      "large_pal_soul",
+      "innovative_technical_manual"
+    ],
     "aura": {
       "name": "guardian_of_the_desert",
       "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle.",
@@ -8778,7 +9272,10 @@
     "image": "/public/images/paldeck/101.png",
     "name": "Jormuntide",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide",
-    "types": ["dragon", "water"],
+    "types": [
+      "dragon",
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/8/8e/Jormuntide_menu.png/",
     "suitability": [
       {
@@ -8787,7 +9284,9 @@
         "level": 4
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "stormbringer_sea_dragon",
       "description": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water.",
@@ -8859,7 +9358,9 @@
     "image": "/public/images/paldeck/102.png",
     "name": "Suzaku",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/b4/Suzaku_menu.png/",
     "suitability": [
       {
@@ -8868,7 +9369,9 @@
         "level": 3
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "wings_of_flame",
       "description": "Can be ridden as a flying mount. Enhances Fire attacks while mounted.",
@@ -8940,7 +9443,9 @@
     "image": "/public/images/paldeck/103.png",
     "name": "Grizzbolt",
     "wiki": "https://palworld.fandom.com/wiki/Grizzbolt",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Grizzbolt_menu.png/",
     "suitability": [
       {
@@ -8964,7 +9469,10 @@
         "level": 2
       }
     ],
-    "drops": ["electric_organ", "leather"],
+    "drops": [
+      "electric_organ",
+      "leather"
+    ],
     "aura": {
       "name": "yellow_tank",
       "description": "Can be ridden. Can rapidly fire a minigun while mounted.",
@@ -9036,7 +9544,9 @@
     "image": "/public/images/paldeck/104.png",
     "name": "Lyleen",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Lyleen_menu.png/",
     "suitability": [
       {
@@ -9136,7 +9646,9 @@
     "image": "/public/images/paldeck/105.png",
     "name": "Faleris",
     "wiki": "https://palworld.fandom.com/wiki/Faleris",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/99/Faleris_menu.png/",
     "suitability": [
       {
@@ -9150,7 +9662,9 @@
         "level": 3
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "scorching_predator",
       "description": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated.",
@@ -9222,7 +9736,10 @@
     "image": "/public/images/paldeck/106.png",
     "name": "Orserk",
     "wiki": "https://palworld.fandom.com/wiki/Orserk",
-    "types": ["dragon", "electric"],
+    "types": [
+      "dragon",
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/6e/Orserk_menu.png/",
     "suitability": [
       {
@@ -9241,7 +9758,9 @@
         "level": 3
       }
     ],
-    "drops": ["electric_organ"],
+    "drops": [
+      "electric_organ"
+    ],
     "aura": {
       "name": "ferocious_thunder_dragon",
       "description": "While fighting together, Water Pals drop more items when defeated.",
@@ -9313,7 +9832,9 @@
     "image": "/public/images/paldeck/107.png",
     "name": "Shadowbeak",
     "wiki": "https://palworld.fandom.com/wiki/Shadowbeak",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0c/Shadowbeak_menu.png/",
     "suitability": [
       {
@@ -9322,7 +9843,11 @@
         "level": 1
       }
     ],
-    "drops": ["pal_metal_ingot", "carbon_fiber", "innovative_technical_manual"],
+    "drops": [
+      "pal_metal_ingot",
+      "carbon_fiber",
+      "innovative_technical_manual"
+    ],
     "aura": {
       "name": "modified_dna",
       "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted.",
@@ -9394,7 +9919,9 @@
     "image": "/public/images/paldeck/108.png",
     "name": "Paladius",
     "wiki": "https://palworld.fandom.com/wiki/Paladius",
-    "types": ["neutral"],
+    "types": [
+      "neutral"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/09/Paladius_menu.png/",
     "suitability": [
       {
@@ -9408,7 +9935,10 @@
         "level": 2
       }
     ],
-    "drops": ["pal_metal_ingot", "diamond"],
+    "drops": [
+      "pal_metal_ingot",
+      "diamond"
+    ],
     "aura": {
       "name": "holy_knight_of_the_firmament",
       "description": "Can be ridden. Can triple jump while mounted.",
@@ -9480,7 +10010,9 @@
     "image": "/public/images/paldeck/109.png",
     "name": "Necromus",
     "wiki": "https://palworld.fandom.com/wiki/Necromus",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/13/Necromus_menu.png/",
     "suitability": [
       {
@@ -9494,7 +10026,10 @@
         "level": 2
       }
     ],
-    "drops": ["pal_metal_ingot", "large_pal_soul"],
+    "drops": [
+      "pal_metal_ingot",
+      "large_pal_soul"
+    ],
     "aura": {
       "name": "dark_knight_of_the_abyss",
       "description": "Can be ridden. Can double jump while mounted.",
@@ -9566,7 +10101,9 @@
     "image": "/public/images/paldeck/110.png",
     "name": "Frostallion",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/00/Frostallion_menu.png/",
     "suitability": [
       {
@@ -9575,7 +10112,10 @@
         "level": 4
       }
     ],
-    "drops": ["ice_organ", "diamond"],
+    "drops": [
+      "ice_organ",
+      "diamond"
+    ],
     "aura": {
       "name": "ice_steed",
       "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted.",
@@ -9647,7 +10187,9 @@
     "image": "/public/images/paldeck/111.png",
     "name": "Jetragon",
     "wiki": "https://palworld.fandom.com/wiki/Jetragon",
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/e5/Jetragon_menu.png/",
     "suitability": [
       {
@@ -9656,7 +10198,12 @@
         "level": 3
       }
     ],
-    "drops": ["pure_quartz", "polymer", "carbon_fiber", "diamond"],
+    "drops": [
+      "pure_quartz",
+      "polymer",
+      "carbon_fiber",
+      "diamond"
+    ],
     "aura": {
       "name": "aerial_missile",
       "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted.",
@@ -9728,7 +10275,9 @@
     "image": "/public/images/paldeck/012B.png",
     "name": "Jolthog Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/72/Jolthog_Cryst_menu.png",
     "suitability": [
       {
@@ -9737,7 +10286,9 @@
         "level": 1
       }
     ],
-    "drops": ["ice_organ"],
+    "drops": [
+      "ice_organ"
+    ],
     "aura": {
       "name": "cold_bomb",
       "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact.",
@@ -9809,7 +10360,9 @@
     "image": "/public/images/paldeck/024B.png",
     "name": "Mau Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/7/7a/Mau_Cryst_menu.png",
     "suitability": [
       {
@@ -9823,7 +10376,10 @@
         "level": 1
       }
     ],
-    "drops": ["ice_organ", "sapphire"],
+    "drops": [
+      "ice_organ",
+      "sapphire"
+    ],
     "aura": {
       "name": "gold_digger",
       "description": "Sometimes digs up Gold Coin when assigned to Ranch.",
@@ -9895,7 +10451,9 @@
     "image": "/public/images/paldeck/031B.png",
     "name": "Gobfin Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/9/9c/Gobfin_Ignis_menu.png",
     "suitability": [
       {
@@ -9914,7 +10472,9 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "angry_shark",
       "description": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power.",
@@ -9986,7 +10546,9 @@
     "image": "/public/images/paldeck/032B.png",
     "name": "Hangyu Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/49/Hangyu_Cryst_menu.png",
     "suitability": [
       {
@@ -10010,7 +10572,10 @@
         "level": 2
       }
     ],
-    "drops": ["fiber", "ice_organ"],
+    "drops": [
+      "fiber",
+      "ice_organ"
+    ],
     "aura": {
       "name": "winter_trapeze",
       "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
@@ -10082,7 +10647,9 @@
     "image": "/public/images/paldeck/033B.png",
     "name": "Mossanda Lux",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/05/Mossanda_Lux_menu.png",
     "suitability": [
       {
@@ -10106,7 +10673,11 @@
         "level": 3
       }
     ],
-    "drops": ["mushroom", "electric_organ", "leather"],
+    "drops": [
+      "mushroom",
+      "electric_organ",
+      "leather"
+    ],
     "aura": {
       "name": "grenadier_panda",
       "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
@@ -10178,7 +10749,9 @@
     "image": "/public/images/paldeck/037B.png",
     "name": "Eikthyrdeer Terra",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/32/Eikthyrdeer_Terra_menu.png",
     "suitability": [
       {
@@ -10187,7 +10760,11 @@
         "level": 2
       }
     ],
-    "drops": ["eikthyrdeer_venison", "leather", "horn"],
+    "drops": [
+      "eikthyrdeer_venison",
+      "leather",
+      "horn"
+    ],
     "aura": {
       "name": "guardian_of_the_golden_forest",
       "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees.",
@@ -10259,7 +10836,9 @@
     "image": "/public/images/paldeck/040B.png",
     "name": "Incineram Noct",
     "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5b/Incineram_Noct_menu.png",
     "suitability": [
       {
@@ -10278,7 +10857,10 @@
         "level": 2
       }
     ],
-    "drops": ["horn", "leather"],
+    "drops": [
+      "horn",
+      "leather"
+    ],
     "aura": {
       "name": "darkclaw_hunter",
       "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
@@ -10350,7 +10932,9 @@
     "image": "/public/images/paldeck/045B.png",
     "name": "Leezpunk Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/e/ea/Leezpunk_Ignis_menu.png",
     "suitability": [
       {
@@ -10374,7 +10958,10 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ", "silver_key"],
+    "drops": [
+      "flame_organ",
+      "silver_key"
+    ],
     "aura": {
       "name": "sixth_sense",
       "description": "When activated, utilizes its sixth sense to detect nearby dungeons.",
@@ -10446,7 +11033,10 @@
     "image": "/public/images/paldeck/048B.png",
     "name": "Robinquill Terra",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
-    "types": ["grass", "ground"],
+    "types": [
+      "grass",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/45/Robinquill_Terra_menu.png",
     "suitability": [
       {
@@ -10475,7 +11065,10 @@
         "level": 2
       }
     ],
-    "drops": ["wheat_seeds", "arrow"],
+    "drops": [
+      "wheat_seeds",
+      "arrow"
+    ],
     "aura": {
       "name": "hawk_eye",
       "description": "While fighting together, allows you to deal more damage to weak points.",
@@ -10547,7 +11140,10 @@
     "image": "/public/images/paldeck/058B.png",
     "name": "Pyrin Noct",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
-    "types": ["fire", "dark"],
+    "types": [
+      "fire",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2b/Pyrin_Noct_menu.png",
     "suitability": [
       {
@@ -10561,7 +11157,10 @@
         "level": 1
       }
     ],
-    "drops": ["flame_organ", "leather"],
+    "drops": [
+      "flame_organ",
+      "leather"
+    ],
     "aura": {
       "name": "black_hare",
       "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted.",
@@ -10633,7 +11232,10 @@
     "image": "/public/images/paldeck/064B.png",
     "name": "Dinossom Lux",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
-    "types": ["electric", "dragon"],
+    "types": [
+      "electric",
+      "dragon"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/c/c7/Dinossom_Lux_menu.png",
     "suitability": [
       {
@@ -10647,7 +11249,9 @@
         "level": 2
       }
     ],
-    "drops": ["tomato_seeds"],
+    "drops": [
+      "tomato_seeds"
+    ],
     "aura": {
       "name": "thunder_dragon",
       "description": "Can be ridden. Enhances Electric attacks while mounted.",
@@ -10719,7 +11323,9 @@
     "image": "/public/images/paldeck/065B.png",
     "name": "Surfent Terra",
     "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/f/ff/Surfent_Terra_menu.png",
     "suitability": [
       {
@@ -10728,7 +11334,9 @@
         "level": 1
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "sand_swimmer",
       "description": "Can be ridden.",
@@ -10800,7 +11408,10 @@
     "image": "/public/images/paldeck/071B.png",
     "name": "Vanwyrm Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
-    "types": ["ice", "dark"],
+    "types": [
+      "ice",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/19/Vanwyrm_Cryst_menu.png",
     "suitability": [
       {
@@ -10814,7 +11425,11 @@
         "level": 3
       }
     ],
-    "drops": ["bone", "ice_organ", "sapphire"],
+    "drops": [
+      "bone",
+      "ice_organ",
+      "sapphire"
+    ],
     "aura": {
       "name": "aerial_marauder",
       "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
@@ -10886,7 +11501,10 @@
     "image": "/public/images/paldeck/080B.png",
     "name": "Elphidran Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
-    "types": ["dragon", "water"],
+    "types": [
+      "dragon",
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5e/Elphidran_Aqua_menu.png",
     "suitability": [
       {
@@ -10900,7 +11518,9 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil"],
+    "drops": [
+      "high_quality_pal_oil"
+    ],
     "aura": {
       "name": "amicable_water_dragon",
       "description": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated.",
@@ -10972,7 +11592,9 @@
     "image": "/public/images/paldeck/081B.png",
     "name": "Kelpsea Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/b/ba/Kelpsea_Ignis_menu.png",
     "suitability": [
       {
@@ -10981,7 +11603,10 @@
         "level": 1
       }
     ],
-    "drops": ["raw_kelpsea", "flame_organ"],
+    "drops": [
+      "raw_kelpsea",
+      "flame_organ"
+    ],
     "aura": {
       "name": "lava_spout",
       "description": "While in team, increases attack power of Fire Pals.",
@@ -11053,7 +11678,10 @@
     "image": "/public/images/paldeck/084B.png",
     "name": "Blazehowl Noct",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
-    "types": ["fire", "dark"],
+    "types": [
+      "fire",
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5d/Blazehowl_Noct_menu.png",
     "suitability": [
       {
@@ -11067,7 +11695,9 @@
         "level": 2
       }
     ],
-    "drops": ["flame_organ"],
+    "drops": [
+      "flame_organ"
+    ],
     "aura": {
       "name": "darkflame_lion",
       "description": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
@@ -11139,7 +11769,10 @@
     "image": "/public/images/paldeck/085B.png",
     "name": "Relaxaurus Lux",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
-    "types": ["dragon", "electric"],
+    "types": [
+      "dragon",
+      "electric"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/4/40/Relaxaurus_Lux_menu.png",
     "suitability": [
       {
@@ -11153,7 +11786,11 @@
         "level": 3
       }
     ],
-    "drops": ["high_quality_pal_oil", "electric_organ", "sapphire"],
+    "drops": [
+      "high_quality_pal_oil",
+      "electric_organ",
+      "sapphire"
+    ],
     "aura": {
       "name": "missile_party",
       "description": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
@@ -11225,7 +11862,10 @@
     "image": "/public/images/paldeck/086B.png",
     "name": "Broncherry Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
-    "types": ["grass", "water"],
+    "types": [
+      "grass",
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Broncherry_Aqua_menu.png",
     "suitability": [
       {
@@ -11234,7 +11874,10 @@
         "level": 3
       }
     ],
-    "drops": ["broncherry_meat", "lettuce_seeds"],
+    "drops": [
+      "broncherry_meat",
+      "lettuce_seeds"
+    ],
     "aura": {
       "name": "overaffectionate",
       "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
@@ -11306,7 +11949,10 @@
     "image": "/public/images/paldeck/088B.png",
     "name": "Ice Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Reptyro",
-    "types": ["ice", "ground"],
+    "types": [
+      "ice",
+      "ground"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/2/2c/Ice_Reptyro_menu.png",
     "suitability": [
       {
@@ -11320,7 +11966,9 @@
         "level": 3
       }
     ],
-    "drops": ["ice_organ"],
+    "drops": [
+      "ice_organ"
+    ],
     "aura": {
       "name": "ice-loving_beast",
       "description": "Can be ridden. Improves efficiency of mining ores while mounted.",
@@ -11392,7 +12040,9 @@
     "image": "/public/images/paldeck/089B.png",
     "name": "Ice Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Kingpaca",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/5/5a/Ice_Kingpaca_menu.png",
     "suitability": [
       {
@@ -11406,7 +12056,10 @@
         "level": 3
       }
     ],
-    "drops": ["wool", "ice_organ"],
+    "drops": [
+      "wool",
+      "ice_organ"
+    ],
     "aura": {
       "name": "king_of_muscles",
       "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
@@ -11478,7 +12131,9 @@
     "image": "/public/images/paldeck/090B.png",
     "name": "Mammorest Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/d/db/Mammorest_Cryst_menu.png",
     "suitability": [
       {
@@ -11497,7 +12152,11 @@
         "level": 2
       }
     ],
-    "drops": ["high_quality_pal_oil", "leather", "mammorest_meat"],
+    "drops": [
+      "high_quality_pal_oil",
+      "leather",
+      "mammorest_meat"
+    ],
     "aura": {
       "name": "ice_crusher",
       "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
@@ -11569,7 +12228,9 @@
     "image": "/public/images/paldeck/091B.png",
     "name": "Wumpo Botan",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/6/68/Wumpo_Botan_menu.png",
     "suitability": [
       {
@@ -11593,7 +12254,11 @@
         "level": 4
       }
     ],
-    "drops": ["lettuce_seeds", "tomato_seeds", "beautiful_flower"],
+    "drops": [
+      "lettuce_seeds",
+      "tomato_seeds",
+      "beautiful_flower"
+    ],
     "aura": {
       "name": "guardian_of_the_grassy_fields",
       "description": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity.",
@@ -11665,7 +12330,10 @@
     "image": "/public/images/paldeck/101B.png",
     "name": "Jormuntide Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
-    "types": ["dragon", "fire"],
+    "types": [
+      "dragon",
+      "fire"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/0/0d/Jormuntide_Ignis_menu.png",
     "suitability": [
       {
@@ -11674,7 +12342,10 @@
         "level": 4
       }
     ],
-    "drops": ["high_quality_pal_oil", "flame_organ"],
+    "drops": [
+      "high_quality_pal_oil",
+      "flame_organ"
+    ],
     "aura": {
       "name": "stormbringer_lava_dragon",
       "description": "Can be ridden. Enhances Fire attacks while mounted.",
@@ -11746,7 +12417,9 @@
     "image": "/public/images/paldeck/102B.png",
     "name": "Suzaku Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/a/a1/Suzaku_Aqua_menu.png",
     "suitability": [
       {
@@ -11755,7 +12428,9 @@
         "level": 3
       }
     ],
-    "drops": ["pal_fluids"],
+    "drops": [
+      "pal_fluids"
+    ],
     "aura": {
       "name": "wings_of_water",
       "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted.",
@@ -11827,7 +12502,9 @@
     "image": "/public/images/paldeck/104B.png",
     "name": "Lyleen Noct",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/3/30/Lyleen_Noct_menu.png",
     "suitability": [
       {
@@ -11922,7 +12599,9 @@
     "image": "/public/images/paldeck/110B.png",
     "name": "Frostallion Noct",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "imageWiki": "https://static.wikia.nocookie.net/palworld/images/1/14/Frostallion_Noct_menu.png",
     "suitability": [
       {
@@ -11931,7 +12610,10 @@
         "level": 4
       }
     ],
-    "drops": ["pure_quartz", "large_pal_soul"],
+    "drops": [
+      "pure_quartz",
+      "large_pal_soul"
+    ],
     "aura": {
       "name": "black_steed",
       "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted.",
